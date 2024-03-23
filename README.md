@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bonsaipropaganda)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bonsaipropaganda&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **bonsaipropaganda/bonsaipropaganda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
